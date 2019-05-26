@@ -36,7 +36,7 @@ Ext.application({
                         displayInLayerSwitcher: false
                     }
                 ),
-               new OpenLayers.Layer.WMS("Frijol 2007",
+               new OpenLayers.Layer.WMS("Frijol 2008 En qq",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
                         layers: 'departamentos2008frijol',
@@ -47,10 +47,32 @@ Ext.application({
                         singleTile: true
                     }
                 ),
-                new OpenLayers.Layer.WMS("Maiz 2007",
+                new OpenLayers.Layer.WMS("Maiz 2008 en cientos",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
                         layers: 'departamentos2008maiz',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Maiz 2007 produccion nacional en qq",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'maiz12007',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Maiz 2007 produccion Asociado en qq",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'maiz22007',
                         format: 'image/png',
                         transparent: true
                     },
