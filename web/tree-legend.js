@@ -20,8 +20,8 @@ Ext.application({
     launch: function() {
         var mapPanel = Ext.create('GeoExt.MapPanel', {
             region: "center",
-            center: [6.859, 50.937],
-            zoom: 15,
+            center: [-88.83, 13.86],
+            zoom: 9,
             layers: [
                 new OpenLayers.Layer.WMS("OpenStreetMap WMS",
                     "https://ows.terrestris.de/osm/service?",
@@ -36,10 +36,10 @@ Ext.application({
                         displayInLayerSwitcher: false
                     }
                 ),
-                new OpenLayers.Layer.WMS("Subway Stops",
-                    "https://ows.terrestris.de/osm-haltestellen?",
+               new OpenLayers.Layer.WMS("Frijol 2007",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
-                        layers: 'OSM-Strassenbahnhaltestellen',
+                        layers: 'departamentos2008frijol',
                         format: 'image/png',
                         transparent: true
                     },
@@ -47,10 +47,10 @@ Ext.application({
                         singleTile: true
                     }
                 ),
-                new OpenLayers.Layer.WMS("Bus Stops",
-                    "https://ows.terrestris.de/osm-haltestellen?",
+                new OpenLayers.Layer.WMS("Maiz 2007",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
-                        layers: 'OSM-Bushaltestellen',
+                        layers: 'departamentos2008maiz',
                         format: 'image/png',
                         transparent: true
                     },
