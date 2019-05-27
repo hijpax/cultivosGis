@@ -36,6 +36,18 @@ Ext.application({
                         displayInLayerSwitcher: false
                     }
                 ),
+				new OpenLayers.Layer.WMS("Bodegas paquete agricola 2019",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'puntosbodegas',
+                        format: 'image/png',
+                        transparent: true,
+						
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
                new OpenLayers.Layer.WMS("Frijol 2008 En qq",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
