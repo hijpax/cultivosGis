@@ -81,6 +81,28 @@ Ext.application({
                         singleTile: true
                     }
                 ),
+				new OpenLayers.Layer.WMS("Comparacion Maiz 2008/2018",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'comparacionMAIZ',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Comparacion Frijol 2008/20018",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'comparacionFRIJOL',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
 				new OpenLayers.Layer.WMS("Maiz Superficie Cosechada por Depto",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {

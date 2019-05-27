@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.locationtech.udig.project.internal:Map xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.locationtech.udig.project.internal="http:///net/refractions/udig/project/internal.ecore" name="comparacion_frijol_2007_2018" colorPalette="Dark2" colourScheme="Dark2;8;0,1,2,3,4,5,6,7,0,1,2,3,4;http://localhost/scratch#comparacionFrijol (3),3,mapgraphic:/localhost/mapgraphic#scalebar,3,file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2,6,mapgraphic:/localhost/mapgraphic#legend,7">
+  <contextModel>
+    <layers name="Cambio del Rendimiento  entre los años 2007 y 2018" catalogRef="%23Sun+May+26+22%3A34%3A40+CST+2019%0D%0A%5C%21%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%3D%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2F_properties%2Ftitle%2Ftype%3Djava.lang.String%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2F_properties%2Ftitle%2Fvalue%3DC%253A%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fcharset%2Ftype%3Djava.lang.String%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fcharset%2Fvalue%3Dwindows-1252%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fchild_C%253A%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGIS%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2523comparacionFrijol2%2Ftitle%2Ftype%3Djava.lang.String%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fchild_C%253A%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGIS%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2523comparacionFrijol2%2Ftitle%2Fvalue%3DcomparacionFrijol2%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fcreate%5C+spatial%5C+index%2Ftype%3Djava.lang.Boolean%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Fcreate%5C+spatial%5C+index%2Fvalue%3Dtrue%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Furl%2Ftype%3Djava.net.URL%0D%0A%2Forg.locationtech.udig.project%2Ffile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%2523comparacionFrijol2%2FC%2540col%2540%255CUsers%255Cbryan%255CDocuments%255CI10515%255CCiclos%255C2019-01%255CSistemas%2Bde%2BInformaci%25C3%25B3n%2BGeogr%25C3%25A1ficos%255CProyecto%255CcultivosGis%255CCapas%255Cshapefiles%255CcomparacionFrijol2.shp%2Furl%2Fvalue%3Dfile%253A%252FC%253A%252FUsers%252Fbryan%252FDocuments%252FI10515%252FCiclos%252F2019-01%252FSistemas%252520de%252520Informaci%25C3%25B3n%252520Geogr%25C3%25A1ficos%252FProyecto%252FcultivosGis%252FCapas%252Fshapefiles%252FcomparacionFrijol2.shp%0D%0Afile_export_version%3D3.0%0D%0A" iD="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2" defaultColor="#A6761D" minScaleDenominator="4.9E-324" maxScaleDenominator="Infinity">
+      <styleBlackboard>
+        <content iD="org.locationtech.udig.mapgraphic.style.font" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-16777216&quot; FONT_NAME=&quot;Dialog&quot; SIZE=&quot;8&quot; STYLE=&quot;0&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.scaledenom.style" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-1&quot; LABEL_PREFIX=&quot;&quot;/>"/>
+        <content iD="org.locationtech.udig.style.filter" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry type=&quot;FilterContent&quot; version=&quot;1.0&quot;/>"/>
+        <content iD="org.locationtech.udig.style.sld" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry type=&quot;SLDStyle&quot; version=&quot;1.0&quot;>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&amp;lt;sld:UserStyle xmlns=&amp;quot;http://www.opengis.net/sld&amp;quot; xmlns:sld=&amp;quot;http://www.opengis.net/sld&amp;quot; xmlns:gml=&amp;quot;http://www.opengis.net/gml&amp;quot; xmlns:ogc=&amp;quot;http://www.opengis.net/ogc&amp;quot;&amp;gt;&amp;lt;sld:Name&amp;gt;Cambio del Rendimiento  entre los años 2007 y 2018&amp;lt;/sld:Name&amp;gt;&amp;lt;sld:FeatureTypeStyle&amp;gt;&amp;lt;sld:Name&amp;gt;group0&amp;lt;/sld:Name&amp;gt;&amp;lt;sld:Rule&amp;gt;&amp;lt;sld:Name&amp;gt;Aumento&amp;lt;/sld:Name&amp;gt;&amp;lt;ogc:Filter&amp;gt;&amp;lt;ogc:PropertyIsGreaterThan&amp;gt;&amp;lt;ogc:PropertyName&amp;gt;COMP&amp;lt;/ogc:PropertyName&amp;gt;&amp;lt;ogc:Literal&amp;gt;0&amp;lt;/ogc:Literal&amp;gt;&amp;lt;/ogc:PropertyIsGreaterThan&amp;gt;&amp;lt;/ogc:Filter&amp;gt;&amp;lt;sld:PolygonSymbolizer&amp;gt;&amp;lt;sld:Fill&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill&amp;quot;&amp;gt;#1EAC04&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill-opacity&amp;quot;&amp;gt;0.5&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Fill&amp;gt;&amp;lt;sld:Stroke/&amp;gt;&amp;lt;/sld:PolygonSymbolizer&amp;gt;&amp;lt;sld:TextSymbolizer&amp;gt;&amp;lt;sld:Label&amp;gt;&amp;lt;ogc:PropertyName&amp;gt;COMP&amp;lt;/ogc:PropertyName&amp;gt;&amp;lt;/sld:Label&amp;gt;&amp;lt;sld:Font&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-family&amp;quot;&amp;gt;Arial&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-size&amp;quot;&amp;gt;12.0&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-style&amp;quot;&amp;gt;normal&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-weight&amp;quot;&amp;gt;normal&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Font&amp;gt;&amp;lt;sld:LabelPlacement&amp;gt;&amp;lt;sld:PointPlacement&amp;gt;&amp;lt;sld:AnchorPoint&amp;gt;&amp;lt;sld:AnchorPointX&amp;gt;0.0&amp;lt;/sld:AnchorPointX&amp;gt;&amp;lt;sld:AnchorPointY&amp;gt;0.0&amp;lt;/sld:AnchorPointY&amp;gt;&amp;lt;/sld:AnchorPoint&amp;gt;&amp;lt;sld:Displacement&amp;gt;&amp;lt;sld:DisplacementX&amp;gt;0.0&amp;lt;/sld:DisplacementX&amp;gt;&amp;lt;sld:DisplacementY&amp;gt;0.0&amp;lt;/sld:DisplacementY&amp;gt;&amp;lt;/sld:Displacement&amp;gt;&amp;lt;/sld:PointPlacement&amp;gt;&amp;lt;/sld:LabelPlacement&amp;gt;&amp;lt;sld:Fill&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill&amp;quot;&amp;gt;#000000&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Fill&amp;gt;&amp;lt;/sld:TextSymbolizer&amp;gt;&amp;lt;/sld:Rule&amp;gt;&amp;lt;sld:Rule&amp;gt;&amp;lt;sld:Name&amp;gt;Reducción&amp;lt;/sld:Name&amp;gt;&amp;lt;ogc:Filter&amp;gt;&amp;lt;ogc:PropertyIsLessThan&amp;gt;&amp;lt;ogc:PropertyName&amp;gt;COMP&amp;lt;/ogc:PropertyName&amp;gt;&amp;lt;ogc:Literal&amp;gt;0&amp;lt;/ogc:Literal&amp;gt;&amp;lt;/ogc:PropertyIsLessThan&amp;gt;&amp;lt;/ogc:Filter&amp;gt;&amp;lt;sld:PolygonSymbolizer&amp;gt;&amp;lt;sld:Fill&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill&amp;quot;&amp;gt;#ff0000&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill-opacity&amp;quot;&amp;gt;0.5&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Fill&amp;gt;&amp;lt;sld:Stroke/&amp;gt;&amp;lt;/sld:PolygonSymbolizer&amp;gt;&amp;lt;sld:TextSymbolizer&amp;gt;&amp;lt;sld:Label&amp;gt;&amp;lt;ogc:PropertyName&amp;gt;COMP&amp;lt;/ogc:PropertyName&amp;gt;&amp;lt;/sld:Label&amp;gt;&amp;lt;sld:Font&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-family&amp;quot;&amp;gt;Arial&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-size&amp;quot;&amp;gt;12.0&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-style&amp;quot;&amp;gt;normal&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;font-weight&amp;quot;&amp;gt;normal&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Font&amp;gt;&amp;lt;sld:LabelPlacement&amp;gt;&amp;lt;sld:PointPlacement&amp;gt;&amp;lt;sld:AnchorPoint&amp;gt;&amp;lt;sld:AnchorPointX&amp;gt;0.0&amp;lt;/sld:AnchorPointX&amp;gt;&amp;lt;sld:AnchorPointY&amp;gt;0.0&amp;lt;/sld:AnchorPointY&amp;gt;&amp;lt;/sld:AnchorPoint&amp;gt;&amp;lt;sld:Displacement&amp;gt;&amp;lt;sld:DisplacementX&amp;gt;0.0&amp;lt;/sld:DisplacementX&amp;gt;&amp;lt;sld:DisplacementY&amp;gt;0.0&amp;lt;/sld:DisplacementY&amp;gt;&amp;lt;/sld:Displacement&amp;gt;&amp;lt;/sld:PointPlacement&amp;gt;&amp;lt;/sld:LabelPlacement&amp;gt;&amp;lt;sld:Fill&amp;gt;&amp;lt;sld:CssParameter name=&amp;quot;fill&amp;quot;&amp;gt;#000000&amp;lt;/sld:CssParameter&amp;gt;&amp;lt;/sld:Fill&amp;gt;&amp;lt;/sld:TextSymbolizer&amp;gt;&amp;lt;/sld:Rule&amp;gt;&amp;lt;/sld:FeatureTypeStyle&amp;gt;&amp;lt;/sld:UserStyle&amp;gt;&lt;/styleEntry>"/>
+      </styleBlackboard>
+    </layers>
+    <layers name="Legend" catalogRef="%23Sun+May+26+22%3A34%3A40+CST+2019%0D%0A%5C%21%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523legend%3D%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523legend%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2F_properties%2Ftitle%2Ftype%3Djava.lang.String%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523legend%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2F_properties%2Ftitle%2Fvalue%3DGr%25C3%25A1ficos%2Bde%2BMapa%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523legend%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2Fgraphic%2Ftype%3Djava.net.URL%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523legend%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2Fgraphic%2Fvalue%3Dmapgraphic%253A%252Flocalhost%252Fmapgraphic%0D%0Afile_export_version%3D3.0%0D%0A" iD="mapgraphic:/localhost/mapgraphic#legend" defaultColor="#666666" minScaleDenominator="4.9E-324" maxScaleDenominator="1.7976931348623157E308">
+      <styleBlackboard>
+        <content iD="org.locationtech.udig.printing.ui.locationStyle" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry h=&quot;0&quot; w=&quot;0&quot; x=&quot;-15&quot; y=&quot;-5&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.style.font" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-16777216&quot; FONT_NAME=&quot;Dialog&quot; SIZE=&quot;8&quot; STYLE=&quot;0&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.style.bartype" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry B=&quot;0&quot; BAR_STYLE=&quot;SIMPLE&quot; G=&quot;0&quot; NUM_INTERVAL=&quot;4&quot; R=&quot;0&quot; UNITS=&quot;AUTO&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.scaledenom.style" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-1&quot; LABEL_PREFIX=&quot;&quot;/>"/>
+        <content iD="org.locationtech.udig.style.filter" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry type=&quot;FilterContent&quot; version=&quot;1.0&quot;/>"/>
+        <content iD="org.locationtech.udig.legend.legendStyle" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry/>"/>
+      </styleBlackboard>
+    </layers>
+    <layers name="Scalebar" catalogRef="%23Sun+May+26+22%3A34%3A40+CST+2019%0D%0A%5C%21%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523scalebar%3D%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523scalebar%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2F_properties%2Ftitle%2Ftype%3Djava.lang.String%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523scalebar%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2F_properties%2Ftitle%2Fvalue%3DGr%25C3%25A1ficos%2Bde%2BMapa%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523scalebar%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2Fgraphic%2Ftype%3Djava.net.URL%0D%0A%2Forg.locationtech.udig.project%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2523scalebar%2Fmapgraphic%253A%252Flocalhost%252Fmapgraphic%2Fgraphic%2Fvalue%3Dmapgraphic%253A%252Flocalhost%252Fmapgraphic%0D%0Afile_export_version%3D3.0%0D%0A" iD="mapgraphic:/localhost/mapgraphic#scalebar" defaultColor="#E7298A" minScaleDenominator="4.9E-324" maxScaleDenominator="1.7976931348623157E308">
+      <styleBlackboard>
+        <content iD="org.locationtech.udig.printing.ui.locationStyle" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry h=&quot;10&quot; w=&quot;500&quot; x=&quot;15&quot; y=&quot;15&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.style.font" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-16777216&quot; FONT_NAME=&quot;Dialog&quot; SIZE=&quot;8&quot; STYLE=&quot;0&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.style.bartype" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry B=&quot;0&quot; BAR_STYLE=&quot;SIMPLE&quot; G=&quot;0&quot; NUM_INTERVAL=&quot;4&quot; R=&quot;0&quot; UNITS=&quot;AUTO&quot;/>"/>
+        <content iD="org.locationtech.udig.mapgraphic.scaledenom.style" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry COLOR=&quot;-1&quot; LABEL_PREFIX=&quot;&quot;/>"/>
+        <content iD="org.locationtech.udig.style.filter" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;styleEntry type=&quot;FilterContent&quot; version=&quot;1.0&quot;/>"/>
+      </styleBlackboard>
+    </layers>
+  </contextModel>
+  <layerFactory/>
+  <viewportModelInternal cRS="GEOGCS[&quot;WGS 84&quot;, &#xD;   DATUM[&quot;WGS_1984&quot;, &#xD;     SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xD;     AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xD;   PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xD;   UNIT[&quot;degree&quot;, 0.017453292519943295], &#xD;   AXIS[&quot;Longitude&quot;, EAST], &#xD;   AXIS[&quot;Latitude&quot;, NORTH], &#xD;   AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]" bounds="-90.79274274588887,-87.07824634689631,12.776858607808371,14.887635926600971@GEOGCS[&quot;WGS 84&quot;, &#xD;   DATUM[&quot;WGS_1984&quot;, &#xD;     SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xD;     AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xD;   PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xD;   UNIT[&quot;degree&quot;, 0.017453292519943295], &#xD;   AXIS[&quot;Longitude&quot;, EAST], &#xD;   AXIS[&quot;Latitude&quot;, NORTH], &#xD;   AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]"/>
+  <blackBoardInternal>
+    <entries key="mapBackgroundColor" memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;blackboardContent alpha=&quot;255&quot; blue=&quot;255&quot; green=&quot;255&quot; internalObjectClassStorage=&quot;java.awt.Color&quot; red=&quot;255&quot;/>"/>
+    <entries key="LABEL_PAINTER"/>
+    <entries key="EDIT_TOOL_HANDLER_LOCK_KEY_345280194"/>
+    <entries key="EDITING_EDIT_MANAGER_LISTENER_234234567"/>
+    <entries key="EDIT_TOOL_HANDLER_EDIT_STATE_KEY_33847562"/>
+    <entries key="EDIT_TOOL_HANDLER_CURRENT_SHAPE_KEY_872839"/>
+    <entries key="EDIT_TOOL_HANDLER_CURRENT_SHAPE_KEY_872839"/>
+    <entries key="EDIT_TOOL_HANDLER_CURRENT_SHAPE_KEY_872839"/>
+    <entries key="EDIT_TOOL_HANDLER_CURRENT_SHAPE_KEY_872839"/>
+    <entries key="eu.hydrologis.jgrass.rasterlegend.rasterlegendStyle"/>
+  </blackBoardInternal>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem" layer="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem" layer="mapgraphic:/localhost/mapgraphic#legend"/>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem" layer="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol.shp#comparacionFrijol"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol__3_.shp#comparacionFrijol__3_"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="file:/C:/Users/bryan/Documents/I10515/Ciclos/2019-01/Sistemas%20de%20Información%20Geográficos/Proyecto/cultivosGis/Capas/shapefiles/comparacionFrijol2.shp#comparacionFrijol2"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#legend"/>
+  </legend>
+  <legend xsi:type="org.locationtech.udig.project.internal:LayerLegendItem">
+    <layer href="mapgraphic:/localhost/mapgraphic#scalebar"/>
+  </legend>
+</org.locationtech.udig.project.internal:Map>
