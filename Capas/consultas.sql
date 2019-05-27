@@ -8,3 +8,9 @@ select * from Public."municipios"
 
 create table municipios2008maiz2 as select * from municipios2008maiz as f inner join municipios on f.gid=municipios.id;
 
+drop table if exists frijol18;
+drop table if exists frijol07;
+drop table if exists comparacionfrijol;
+create table frijol18 as select gid as id,departamento, superficie_total_mz as super2018, rendimiento_total_qq_mz as rendimiento2018,producción_total_qq as prod2018, geom from frijol2018;
+create table frijol07 as select gid,superficie_total_mz as super2007, rendimiento_total_qq_mz as rendimiento2007,producción_total_qq as prod2007 from frijol2007;
+create table comparacionfrijol as select * from frijol18 as f inner join frijol07 on f.id=frijol07.gid;
