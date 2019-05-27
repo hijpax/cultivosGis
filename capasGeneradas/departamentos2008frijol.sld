@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
+    <sld:UserLayer>
+        <sld:LayerFeatureConstraints>
+            <sld:FeatureTypeConstraint/>
+        </sld:LayerFeatureConstraints>
+        <sld:UserStyle>
+            <sld:Name>departamentos2008frijol</sld:Name>
+            <sld:IsDefault>1</sld:IsDefault>
+            <sld:FeatureTypeStyle>
+                <sld:Name>group0</sld:Name>
+                <sld:FeatureTypeName>Feature</sld:FeatureTypeName>
+                <sld:SemanticTypeIdentifier>generic:geometry</sld:SemanticTypeIdentifier>
+                <sld:SemanticTypeIdentifier>colorbrewer:quantile:custom</sld:SemanticTypeIdentifier>
+                <sld:Rule>
+                    <sld:Name>rule01</sld:Name>
+                    <sld:Title>11485..51653</sld:Title>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsGreaterThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>11485</ogc:Literal>
+                            </ogc:PropertyIsGreaterThanOrEqualTo>
+                            <ogc:PropertyIsLessThan>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>51653</ogc:Literal>
+                            </ogc:PropertyIsLessThan>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#4BAE02</sld:CssParameter>
+                            <sld:CssParameter name="fill-opacity">0.7</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke/>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+                <sld:Rule>
+                    <sld:Name>rule02</sld:Name>
+                    <sld:Title>51653..65064</sld:Title>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsGreaterThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>51653</ogc:Literal>
+                            </ogc:PropertyIsGreaterThanOrEqualTo>
+                            <ogc:PropertyIsLessThan>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>65064</ogc:Literal>
+                            </ogc:PropertyIsLessThan>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#56922E</sld:CssParameter>
+                            <sld:CssParameter name="fill-opacity">0.7</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke/>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+                <sld:Rule>
+                    <sld:Name>rule03</sld:Name>
+                    <sld:Title>65064..88310</sld:Title>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsGreaterThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>65064</ogc:Literal>
+                            </ogc:PropertyIsGreaterThanOrEqualTo>
+                            <ogc:PropertyIsLessThan>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>88310</ogc:Literal>
+                            </ogc:PropertyIsLessThan>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#68750B</sld:CssParameter>
+                            <sld:CssParameter name="fill-opacity">0.7</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke/>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+                <sld:Rule>
+                    <sld:Name>rule04</sld:Name>
+                    <sld:Title>88310..169641</sld:Title>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsGreaterThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>88310</ogc:Literal>
+                            </ogc:PropertyIsGreaterThanOrEqualTo>
+                            <ogc:PropertyIsLessThan>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>169641</ogc:Literal>
+                            </ogc:PropertyIsLessThan>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#BF8226</sld:CssParameter>
+                            <sld:CssParameter name="fill-opacity">0.7</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke/>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+                <sld:Rule>
+                    <sld:Name>rule05</sld:Name>
+                    <sld:Title>169641..236663</sld:Title>
+                    <ogc:Filter>
+                        <ogc:And>
+                            <ogc:PropertyIsGreaterThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>169641</ogc:Literal>
+                            </ogc:PropertyIsGreaterThanOrEqualTo>
+                            <ogc:PropertyIsLessThanOrEqualTo>
+                                <ogc:PropertyName>produccion_para_grano_y_semilla_qq</ogc:PropertyName>
+                                <ogc:Literal>236663</ogc:Literal>
+                            </ogc:PropertyIsLessThanOrEqualTo>
+                        </ogc:And>
+                    </ogc:Filter>
+                    <sld:PolygonSymbolizer>
+                        <sld:Fill>
+                            <sld:CssParameter name="fill">#7C5329</sld:CssParameter>
+                            <sld:CssParameter name="fill-opacity">0.7</sld:CssParameter>
+                        </sld:Fill>
+                        <sld:Stroke/>
+                    </sld:PolygonSymbolizer>
+                </sld:Rule>
+            </sld:FeatureTypeStyle>
+        </sld:UserStyle>
+    </sld:UserLayer>
+</sld:StyledLayerDescriptor>
+
