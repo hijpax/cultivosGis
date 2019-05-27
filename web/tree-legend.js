@@ -41,7 +41,8 @@ Ext.application({
                     {
                         layers: 'departamentos2008frijol',
                         format: 'image/png',
-                        transparent: true
+                        transparent: true,
+						
                     },
                     {
                         singleTile: true
@@ -58,7 +59,7 @@ Ext.application({
                         singleTile: true
                     }
                 ),
-				new OpenLayers.Layer.WMS("Maiz 2007 produccion nacional en qq",
+				new OpenLayers.Layer.WMS("Maiz 2008 produccion nacional en qq",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
                         layers: 'maiz12007',
@@ -69,10 +70,43 @@ Ext.application({
                         singleTile: true
                     }
                 ),
-				new OpenLayers.Layer.WMS("Maiz 2007 produccion Asociado en qq",
+				new OpenLayers.Layer.WMS("Maiz 2008 produccion Asociado en qq",
                     "http://localhost:8080/geoserver/cultivoGis/wms",
                     {
                         layers: 'maiz22007',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Maiz Superficie Cosechada por Depto",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'municipios_maiz_2008_SuperficieCosechada',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Maiz Semilla Mejorada Cosecha 2008",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'municipios_maiz_2008_SuperficieCosechadaSM',
+                        format: 'image/png',
+                        transparent: true
+                    },
+                    {
+                        singleTile: true
+                    }
+                ),
+				new OpenLayers.Layer.WMS("Frijol Superficie Cosechada por Depto",
+                    "http://localhost:8080/geoserver/cultivoGis/wms",
+                    {
+                        layers: 'municipios_frijol_2008_SuperficieCosechada',
                         format: 'image/png',
                         transparent: true
                     },
@@ -86,6 +120,7 @@ Ext.application({
         var store = Ext.create('Ext.data.TreeStore', {
             model: 'GeoExt.data.LayerTreeModel',
             root: {
+				
                 plugins: [{
                     ptype: "gx_layercontainer",
                     loader: {
@@ -107,9 +142,14 @@ Ext.application({
         });
 
         var tree = Ext.create('GeoExt.tree.Panel', {
-            region: "east",
-            title: "Layers",
+            layout: "fit",
+			region: "east",
+            title: "Capas",
+			autoHeight: 3500,
             width: 250,
+            scrollable: true,
+			collapsible: true,
+            collapseMode: "mini",
             autoScroll: true,
             viewConfig: {
                 plugins: [{
@@ -119,7 +159,8 @@ Ext.application({
             },
             store: store,
             rootVisible: false,
-            lines: false
+            lines: false,
+			renderTo: Ext.getBody()
         });
 
         Ext.create('Ext.Viewport', {
