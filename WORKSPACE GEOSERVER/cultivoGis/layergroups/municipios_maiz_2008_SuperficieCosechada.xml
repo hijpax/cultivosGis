@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42de6da1:16af67036c7:-1b0c</id>
+  <name>municipios_maiz_2008_SuperficieCosechada</name>
+  <mode>SINGLE</mode>
+  <title>municipios_maiz_2008_SuperficieCosechada</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-f56f0e2:16ae29e1c07:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42de6da1:16af67036c7:-1b15</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42de6da1:16af67036c7:-1b17</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42de6da1:16af67036c7:-1b11</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42de6da1:16af67036c7:-1b13</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-90.1442413330078</minx>
+    <maxx>-87.6715621948242</maxx>
+    <miny>13.1489229202271</miny>
+    <maxy>14.4575338363647</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

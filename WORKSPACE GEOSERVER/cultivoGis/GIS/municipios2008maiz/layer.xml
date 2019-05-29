@@ -1,0 +1,15 @@
+<layer>
+  <name>municipios2008maiz</name>
+  <id>LayerInfoImpl--42de6da1:16af67036c7:-1b17</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42de6da1:16af67036c7:-1b13</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--42de6da1:16af67036c7:-1b18</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

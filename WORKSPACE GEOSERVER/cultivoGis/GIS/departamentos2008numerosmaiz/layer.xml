@@ -1,0 +1,15 @@
+<layer>
+  <name>departamentos2008numerosmaiz</name>
+  <id>LayerInfoImpl--42de6da1:16af67036c7:-1b15</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42de6da1:16af67036c7:-1b11</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--42de6da1:16af67036c7:-1b16</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

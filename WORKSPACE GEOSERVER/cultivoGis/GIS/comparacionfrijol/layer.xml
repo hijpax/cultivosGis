@@ -1,0 +1,15 @@
+<layer>
+  <name>comparacionfrijol</name>
+  <id>LayerInfoImpl--42de6da1:16af67036c7:-6c3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42de6da1:16af67036c7:-6bf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--42de6da1:16af67036c7:-6c4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

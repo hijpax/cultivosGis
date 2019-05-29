@@ -1,0 +1,15 @@
+<layer>
+  <name>municipios2008frijol</name>
+  <id>LayerInfoImpl-22d9e121:16af44057da:-7cf0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-22d9e121:16af44057da:-7cee</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-22d9e121:16af44057da:-7cf1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

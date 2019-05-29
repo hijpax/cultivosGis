@@ -1,0 +1,37 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-22d9e121:16af44057da:-7ceb</id>
+  <name>municipios_frijol_2008_SuperficieCosechada</name>
+  <mode>SINGLE</mode>
+  <title>municipios_frijol_2008_SuperficieCosechada</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-f56f0e2:16ae29e1c07:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-22d9e121:16af44057da:-7cf0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-22d9e121:16af44057da:-7cf2</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-22d9e121:16af44057da:-7cee</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-22d9e121:16af44057da:-7cec</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-90.1442413330078</minx>
+    <maxx>-87.6715621948242</maxx>
+    <miny>13.1489229202271</miny>
+    <maxy>14.4575338363647</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <attribution>
+    <title>munfrijol</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>
